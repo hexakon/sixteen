@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Sixteen</title>
+    <script src="js.js"></script>
+</head>
+<body>
+
+<h1>sixteen: the most compact esolang of all time</h1>
+
+program <input type="text" id="program" style="width:500px;"> <br>
+input <input type="text" id="input"> <br>
+<button onclick="six()">run sixteen</button>
+<button onclick="twen()">run twenty</button>
+<br><br>
+<div id="output"></div>
+<script>
+function six() {
+	let program = document.getElementById('program').value;
+	let input = document.getElementById('input').value;
+  sixteen(program, input);
+}
+function twen() {
+	let program = document.getElementById('program').value;
+	let input = document.getElementById('input').value;
+  twenty(program, input);
+}
+</script>
+
+</body>
+</html> 
