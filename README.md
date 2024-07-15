@@ -22,7 +22,7 @@ Here's how to write code for them:
 1. Begin by writing your program in binary according to the instructions below. Make it one long row of numbers.
 2. Split the line of numbers in intervals of 16 digits (for `sixteen`) or 20 digits (for `twenty`).
 3. Head to https://unicodelookup.com/ and search for the corresponding unicode characters. Write them down in a list.
-4. The resulting string of unicode characters is your code! Run it by opening the HTML file in this repo, paste in the code, and press "run sixteen" or "run twenty" accordingly.
+4. The resulting string of unicode characters is your code! Visit https://hexakon.github.io/sixteen/, paste in the code, and press "run sixteen" or "run twenty" accordingly.
 
 ## Instructions
 
