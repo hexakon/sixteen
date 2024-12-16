@@ -64,7 +64,7 @@ Here are all the possible instructions (`x` means that bit is ignored):
 
 Factorial calculator in `sixteen` (input must be two digits, such as `05` or `19`)
 ```
-鎓隖ᐢ舔ꥐ윌숈鞗锔躩ﱙⰜㄮ腲ᢲ뻿
+鎓隖ᐢ舔ꥐ윌숈鞗锔躩Ⱌㄮ腲ᢲ뻿
 ```
 
 Factorial calculator in `twenty` (input must be two digits and not `00`)
